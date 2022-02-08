@@ -1,1 +1,34 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: #49e;
+  font-family: monospace;
+}
+h1 {
+  padding-left: 40%;
+  font-size: 50px;
+}
+#card {
+  margin-left: 40%;
+  width: 400px;
+  height: 600px;
+  background-color: white;
+  border-radius: 23px;
+}
+#arriba {
+  font-size: 90px;
+  padding-left: 10px;
+}
+#centro {
+  font-size: 140px;
+  padding-left: 22.7%;
+  margin: 0%;
+}
+#abajo {
+  font-size: 90px;
+  padding-left: 80%;
+  padding-top: 0px;
+  margin: 0;
+  display: inline-block;
+}
+#inferior {
+  margin: -5px;
+}
